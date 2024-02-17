@@ -9,7 +9,6 @@ This is a real-time chat application built using Node.js/Express for the backend
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [ScreenShot](#ScreenShot)
 - [Contributing](#contributing)
 
 
@@ -23,7 +22,7 @@ This is a real-time chat application built using Node.js/Express for the backend
 
 ## Demo
 
-[Insert Demo Link or GIF here]
+[![Screenshot-2024-02-17-115605.png](https://i.postimg.cc/pTRLPXtg/Screenshot-2024-02-17-115605.png)](https://postimg.cc/zL2rjNvj)
 
 ## Installation
 
@@ -97,8 +96,6 @@ npm start
 - React
 - ChatEngine
 
-## ScreenShot
-[![Screenshot-2024-02-17-115605.png](https://i.postimg.cc/pTRLPXtg/Screenshot-2024-02-17-115605.png)](https://postimg.cc/zL2rjNvj)
 
 ## Contributing
 
