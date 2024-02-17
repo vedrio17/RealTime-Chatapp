@@ -11,7 +11,7 @@ This is a real-time chat application built using Node.js/Express for the backend
 - [Technologies Used](#technologies-used)
 - [ScreenShot](#ScreenShot)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -110,6 +110,4 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Create a new Pull Request
 
-## License
 
-[Insert License information here]
